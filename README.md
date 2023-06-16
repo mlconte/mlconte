@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mlconte
 - 👀 I’m interested in: open science, open source softwares, knowledge organization and management, biomedical informatics, complex systems
 - 🌱 I’m currently learning: more about metadata
-- 💞️ I’m looking to collaborate on: projects related to open science, computable knowledge, clinical research informatics, computable phenotypes, metadata, learning health systems
+- 💞️ I’m looking to collaborate on: projects related to computable knowledge, clinical research informatics, computable phenotypes, metadata, learning health systems, FAIR, research software.
 
 <!--
 mlconte/mlconte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
